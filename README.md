@@ -1,3 +1,3 @@
 # Presentation
 
-1. https://IrinaBukley23.github.io/any-do-presentation/
+1. https://irinabukley23.github.io/any-do-presentation/
